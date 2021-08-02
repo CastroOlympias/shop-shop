@@ -49,7 +49,7 @@ Software download
 
 * Root: `npm run seed`
 * Root: `npm run develop`
-* 
+* Note: development build is not optimized, to optimize, create a production build with `npm run build`
 * 
 * 
 * 
