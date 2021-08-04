@@ -24,7 +24,7 @@ Install in your terminal:
   <br>
 * Client: `npm run test`
   <br>
-* 
+* Server: `npm install stripe`
   <br>
 * 
   <br>
@@ -50,7 +50,7 @@ Software download
 * Root: `npm run seed`
 * Root: `npm run develop`
 * Note: development build is not optimized, to optimize, create a production build with `npm run build`
-* 
+* Note: Stripes fake credit card details for testing is `4242 4242 4242 4242`
 * 
 * 
 * 
