@@ -26,9 +26,9 @@ Install in your terminal:
   <br>
 * Server: `npm install stripe`
   <br>
-* 
+* Client: `npm install @stripe/stripe-js`
   <br>
-* 
+* Client: `npm install @apollo/react-hooks`
   <br>
 * 
   <br>
